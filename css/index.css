@@ -1,0 +1,28 @@
+html {
+    /* width: 50%; */
+    height: 100%;
+}
+
+.intro {
+    display: table;
+    width: 100%;
+    height: auto;
+    padding: 100px 0;
+    text-align: center;
+    color: #fff;
+    background: url(../img/jenkinsCI.png);
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.container > p{
+  text-align: center;
+  /*margin-top: 300px;*/
+}
+
+.btn-lg {
+    font-size: 50px;
+}
